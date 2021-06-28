@@ -1,5 +1,5 @@
-sy:saya
 sya:saya
+sy:saya
 sdg:sedang
 bertny:bertanya
 kl:kalau
