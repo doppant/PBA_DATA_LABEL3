@@ -1,4 +1,4 @@
-sy:saya
+sy,sya:saya
 sdg:sedang
 bertny:bertanya
 kl,kalo:kalau
@@ -26,3 +26,9 @@ drah:darah
 minumx:minumnya
 kira2:kira-kira
 menetes2:menetes
+knpa:kenapa
+ku:aku
+olleh:oleh
+pup:bab
+positif:posiitve
+covid:covid19
