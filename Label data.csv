@@ -185,10 +185,14 @@ Selamat pagi dok saya mau tanya beberapa hari ini saya sering demam tapi demam n
 Terima kasih telah bertanya mengenai demam hanya sore hari menggunakan layanan e-Konsultasi Tanya Dokter KlikDokter.com.    ;Pembuka
 Sebenarnya sangat sulit bagi kami untuk menjawab pertanyaan Anda dengan informasi yang sangat minim. ;Pembuka
 Ada beberapa pertanyanan yang kami butuhkan agar bisa membantu menyelesaikan permasalahan Anda. ;Pembuka
-Sudah berapa Lama demam itu terjadi? ;Pembuka
-Apakah demam disertai dengan mual dan muntah? ;Pembuka
-Apakah diseratai diare atau susah buang air besar? ;Pembuka
-Apakah disertai dengan nyeri perut?;Pembuka
+Sudah berapa Lama demam itu terjadi? ;Pertanyaan
+Sudah berapa Lama demam itu terjadi? ;Gejala
+Apakah demam disertai dengan mual dan muntah? ;Pertanyaan
+Apakah demam disertai dengan mual dan muntah? ;Gejala
+Apakah diseratai diare atau susah buang air besar? ;Pertanyaan
+Apakah diseratai diare atau susah buang air besar? ;Gejala
+Apakah disertai dengan nyeri perut?;Pertanyaan
+Apakah disertai dengan nyeri perut?;Gejala
 Dari gejala yang Anda keluhkan mungkin Anda mengalami demam typhoid atau tipes.  Dengan gejala:;Informasi
 demam tinggi dari 39° sampai 40 °C (103° sampai 104 °F) yang meningkat secara perlahan mulai sore hari hingga dini hari;Gejala
 demam tinggi dari 39° sampai 40 °C (103° sampai 104 °F) yang meningkat secara perlahan mulai sore hari hingga dini hari;Objek
@@ -395,9 +399,12 @@ dok saya sering susah bab. trus kadang kalo keras keluar darah. apa itu ambeien 
 Terimakasih telah menggunakan layanan e-konsultasi Klik Dokter.;Pembuka
 Kami mengerti kekhawatiran yang Anda rasakan. ;Pembuka
 Sebelumnya izinkan kami bertanya.;Pembuka
-Apakah keluhan Anda diikuti dengan gejala lain seperti diare,  demam, nyeri perut, penurunan berat badan, perut membesar, muntah darah?  ;Pembuka
-Apakah terdapat benjolan atau nyeri di anus Anda? ;Pembuka
-Apakah Anda sering mengkonsumsi obat/jamu-jamuan anti nyeri/analgetik?;Pembuka
+Apakah keluhan Anda diikuti dengan gejala lain seperti diare,  demam, nyeri perut, penurunan berat badan, perut membesar, muntah darah?  ;Pertanyaan
+Apakah keluhan Anda diikuti dengan gejala lain seperti diare,  demam, nyeri perut, penurunan berat badan, perut membesar, muntah darah?  ;Gejala
+Apakah terdapat benjolan atau nyeri di anus Anda? ;Pertanyaan
+Apakah terdapat benjolan atau nyeri di anus Anda? ;Gejala
+Apakah Anda sering mengkonsumsi obat/jamu-jamuan anti nyeri/analgetik?;Pertanyaan
+Apakah Anda sering mengkonsumsi obat/jamu-jamuan anti nyeri/analgetik?;Tindakan
 BAB berdarah dapat disebabkan oleh beberapa hal, diantaranya adalah disentri, wasir/hemoroid, polip usus besar, gastritis erosif (perlukaan pada lambung), kanker usus besar, sirosis hepatis (akibat pecahnya varises esofagus), inflamatorry bowel disease, lecet pada daerah anus karena feses yang keras, dan lain lainnya.;Gejala
 BAB berdarah dapat disebabkan oleh beberapa hal, diantaranya adalah disentri, wasir/hemoroid, polip usus besar, gastritis erosif (perlukaan pada lambung), kanker usus besar, sirosis hepatis (akibat pecahnya varises esofagus), inflamatorry bowel disease, lecet pada daerah anus karena feses yang keras, dan lain lainnya.;Penyakit
 Pada infeksi (disentri) biasa disertai dengan diare, nyeri perut dan terkadang demam dan darah biasanya keluar bersamaan dengan tinja. ;Penyakit
@@ -456,6 +463,7 @@ Lendir dapat menandakan adanya infeksi pada pencernaan Anda.;Penyakit
 Lendir dapat menandakan adanya infeksi pada pencernaan Anda.;Gejala
 Buang air besar dengan darah dapat menjadi pertanda dari beberapa jenis penyakit, seperti infeksi (disentri), hemoroid (ambeien), atau kanker kolon. ;Penyakit
 Buang air besar dengan darah dapat menjadi pertanda dari beberapa jenis penyakit, seperti infeksi (disentri), hemoroid (ambeien), atau kanker kolon. ;Gejala
+Bila mengeluarkan darah, perlu diperhatikan: Apakah darah keluar setelah selesai buang air besar? Menetes? Berapakah perkiraan banyak darah yang keluar? Ataukah darah keluar bersamaan dengan tinja? Apakah disertai rasa nyeri perut? Adakah rasa nyeri di daerah anus? Apakah mengalami kesulitan buang air besar? Apakah diare? Apakah ada riwayat ambeien?;Pertanyaan
 Bila mengeluarkan darah, perlu diperhatikan: Apakah darah keluar setelah selesai buang air besar? Menetes? Berapakah perkiraan banyak darah yang keluar? Ataukah darah keluar bersamaan dengan tinja? Apakah disertai rasa nyeri perut? Adakah rasa nyeri di daerah anus? Apakah mengalami kesulitan buang air besar? Apakah diare? Apakah ada riwayat ambeien?;Penyakit
 Bila mengeluarkan darah, perlu diperhatikan: Apakah darah keluar setelah selesai buang air besar? Menetes? Berapakah perkiraan banyak darah yang keluar? Ataukah darah keluar bersamaan dengan tinja? Apakah disertai rasa nyeri perut? Adakah rasa nyeri di daerah anus? Apakah mengalami kesulitan buang air besar? Apakah diare? Apakah ada riwayat ambeien?;Gejala
 Buang air besar yang normal seharusnya tidak mengeluarkan darah. ;Informasi
