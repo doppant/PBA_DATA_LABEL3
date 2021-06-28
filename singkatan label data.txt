@@ -1,7 +1,9 @@
-sy,sya:saya
+sy:saya
+sya:saya
 sdg:sedang
 bertny:bertanya
-kl,kalo:kalau
+kl:kalau
+kalo:kalau
 g:nggak
 bbrp:beberapa
 dgn:dengan
@@ -9,7 +11,8 @@ lgsng:langsung
 dr:dari
 jg:juga
 tp:tapi
-pdahal,pdhal:padahal
+pdahal:padahal
+pdhal:padahal
 sbelum:sebelum
 stiap:setiap
 bln:bulan
@@ -26,9 +29,10 @@ drah:darah
 minumx:minumnya
 kira2:kira-kira
 menetes2:menetes
+gejala2:gejala-gejala
 knpa:kenapa
 ku:aku
 olleh:oleh
 pup:bab
-positif:posiitve
+positif:positive
 covid:covid19
